@@ -1,0 +1,46 @@
+language_name: "Čeština"
+value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDgxNTJiNzMzNGQ3ZWNmMzM1ZTQ3YTRmMzVkZWZiZDJlYjY5NTdmYzdiZmU5NDIxMjY0MmQ2MmY0NmU2MWUifX19"
+
+menu:
+  user_settings: "Uživatelská nastavení"
+  theme_areas: "Tématické okruhy"
+  server: "Server"
+  music: "Hudba"
+  cosmetics: "Kosmetika"
+  language: "Jazyk"
+  back: "Zpět"
+  main_title: "Menu zábavního parku"
+
+status:
+  open: "Otevřeno"
+  closed: "Uzavřeno"
+  maintenance: "Údržba"
+  construction: "Ve výstavbě"
+  label: "Stav:"
+
+language:
+  changed_to: "Jazyk změněn na {language}"
+  select_language: "Vyberte jazyk"
+
+cosmetics:
+  equipped: "Kosmetika '%s' nasazena"
+  title: "Menu kosmetiky"
+
+general:
+  loading: "Načítání..."
+  error: "Došlo k chybě"
+  success: "Hotovo!"
+  confirm: "Potvrdit"
+  cancel: "Zrušit"
+
+permission:
+  no_permission: "Nemáte oprávnění toto provést!"
+  player_only: "Tento příkaz mohou používat pouze hráči!"
+
+navigation:
+  next_page: "Další stránka"
+  previous_page: "Předchozí stránka"
+  page: "Strana"
+
+notification:
+  construction_blocked: "Tato atrakce je momentálně ve výstavbě a není přístupná!"
