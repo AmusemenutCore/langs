@@ -1,0 +1,46 @@
+language_name: "Français"
+value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjkwMzM0OWZhNDViZGQ4NzEyNmQ5Y2QzYzZjMGFiYmE3ZGJkNmY1NmZiOGQ3ODcwMTg3M2ExZTdjOGVlMzNjZiJ9fX0="
+
+menu:
+  user_settings: "Paramètres utilisateur"
+  theme_areas: "Zones à thème"
+  server: "Serveur"
+  music: "Musique"
+  cosmetics: "Cosmétiques"
+  language: "Langue"
+  back: "Retour"
+  main_title: "Menu du parc d'attractions"
+
+status:
+  open: "Ouvert"
+  closed: "Fermé"
+  maintenance: "Maintenance"
+  construction: "En construction"
+  label: "Statut :"
+
+language:
+  changed_to: "Langue changée en {language}"
+  select_language: "Choisir la langue"
+
+cosmetics:
+  equipped: "Cosmétique « %s » équipé"
+  title: "Menu des cosmétiques"
+
+general:
+  loading: "Chargement…"
+  error: "Une erreur est survenue"
+  success: "Succès !"
+  confirm: "Confirmer"
+  cancel: "Annuler"
+
+permission:
+  no_permission: "Vous n'avez pas la permission de faire cela !"
+  player_only: "Cette commande ne peut être utilisée que par des joueurs !"
+
+navigation:
+  next_page: "Page suivante"
+  previous_page: "Page précédente"
+  page: "Page"
+
+notification:
+  construction_blocked: "Cette attraction est actuellement en construction et inaccessible !"
