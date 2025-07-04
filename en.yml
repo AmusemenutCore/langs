@@ -20,6 +20,7 @@ status:
   construction: "Under Construction"
   label: "Status:"
 
+# Ride
 ride:
   count: "Ride Count"
   top_riders: "Top Riders"
