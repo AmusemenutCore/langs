@@ -1,0 +1,46 @@
+language_name: "Lëtzebuergesch"
+value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2Q1ZWZmZDNmOWMxNTA1ODM4MmQzYjJkMjkzNmQ1MGI4OTRiZmNiMTFlNmIyZjEzNjQ1MzVjZTUyYWE1In19fQ=="
+
+menu:
+  user_settings: "Benotzer Astellungen"
+  theme_areas: "Themenberäicher"
+  server: "Server"
+  music: "Musek"
+  cosmetics: "Kosmetik"
+  language: "Sprooch"
+  back: "Zréck"
+  main_title: "Fräizäitpark‑Menu"
+
+status:
+  open: "Op"
+  closed: " zou"
+  maintenance: "Ënnerhalung"
+  construction: "Am Bau"
+  label: "Status:"
+
+language:
+  changed_to: "Sprooch geännert op {language}"
+  select_language: "Sprooch wielen"
+
+cosmetics:
+  equipped: "Kosmetik '%s' ugeluecht"
+  title: "Kosmetik‑Menu"
+
+general:
+  loading: "Lueden..."
+  error: "Et gëtt en Feeler"
+  success: "Erfolleg!"
+  confirm: "Confirméieren"
+  cancel: "Ofbriechen"
+
+permission:
+  no_permission: "Dir hutt keng Erlaabnis fir dat ze maachen!"
+  player_only: "Dës Kommando kann nëmmen vu Spiller benotzt ginn!"
+
+navigation:
+  next_page: "Weider Säit"
+  previous_page: "Virdrun Säit"
+  page: "Säit"
+
+notification:
+  construction_blocked: "Dës Attraktioun ass am Bau a net zougänglech!"
