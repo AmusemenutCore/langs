@@ -1,0 +1,46 @@
+language_name: "Polski"
+value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2ZhMjY5YjhhNjYzZjUyZDYzMjNkY2Q5MmVkY2M4M2Q1ZjkxZDUwOGFmYTgxOTg4MmRlZGExNTM3NWYwM2QifX19"
+
+menu:
+  user_settings: "Ustawienia użytkownika"
+  theme_areas: "Obszary tematyczne"
+  server: "Serwer"
+  music: "Muzyka"
+  cosmetics: "Kosmetyki"
+  language: "Język"
+  back: "Powrót"
+  main_title: "Menu parku rozrywki"
+
+status:
+  open: "Otwarte"
+  closed: "Zamknięte"
+  maintenance: "Konserwacja"
+  construction: "W budowie"
+  label: "Status:"
+
+language:
+  changed_to: "Język zmieniony na {language}"
+  select_language: "Wybierz język"
+
+cosmetics:
+  equipped: "Kosmetyk '%s' założony"
+  title: "Menu kosmetyków"
+
+general:
+  loading: "Ładowanie..."
+  error: "Wystąpił błąd"
+  success: "Sukces!"
+  confirm: "Potwierdź"
+  cancel: "Anuluj"
+
+permission:
+  no_permission: "Nie masz do tego uprawnień!"
+  player_only: "Ta komenda może być użyta tylko przez graczy!"
+
+navigation:
+  next_page: "Następna strona"
+  previous_page: "Poprzednia strona"
+  page: "Strona"
+
+notification:
+  construction_blocked: "Ta atrakcja jest obecnie w budowie i niedostępna!"
