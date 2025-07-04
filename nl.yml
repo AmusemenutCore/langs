@@ -1,0 +1,46 @@
+language_name: "Nederlands"
+value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzIzY2YyMTBlZGVhMzk2ZjJmNWRmYmNlZDY5ODQ4NDM0ZjkzNDA0ZWVmZWFiZjU0YjIzYzA3M2IwOTBhZGYifX19"
+
+menu:
+  user_settings: "Gebruikersinstellingen"
+  theme_areas: "Themagebieden"
+  server: "Server"
+  music: "Muziek"
+  cosmetics: "Cosmetica"
+  language: "Taal"
+  back: "Terug"
+  main_title: "Pretparkmenu"
+
+status:
+  open: "Open"
+  closed: "Gesloten"
+  maintenance: "Onderhoud"
+  construction: "In aanbouw"
+  label: "Status:"
+
+language:
+  changed_to: "Taal gewijzigd naar {language}"
+  select_language: "Selecteer taal"
+
+cosmetics:
+  equipped: "Cosmetica '%s' is voorzien"
+  title: "Cosmetica‑menu"
+
+general:
+  loading: "Laden…"
+  error: "Er is een fout opgetreden"
+  success: "Succes!"
+  confirm: "Bevestigen"
+  cancel: "Annuleren"
+
+permission:
+  no_permission: "Je hebt geen toestemming om dit te doen!"
+  player_only: "Dit commando kan alleen door spelers worden gebruikt!"
+
+navigation:
+  next_page: "Volgende pagina"
+  previous_page: "Vorige pagina"
+  page: "Pagina"
+
+notification:
+  construction_blocked: "Deze attractie is momenteel in aanbouw en niet toegankelijk!"
