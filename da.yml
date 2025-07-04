@@ -1,0 +1,46 @@
+language_name: "Dansk"
+value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTBjMjMwNTVjMzkyNjA2ZjdlNTMxZGFhMjY3NmViZTJlMzQ4OTg4ODEwYzE1ZjE1ZGM1YjM3MzM5OTgyMzIifX19"
+
+menu:
+  user_settings: "Brugerindstillinger"
+  theme_areas: "Temområder"
+  server: "Server"
+  music: "Musik"
+  cosmetics: "Kosmetik"
+  language: "Sprog"
+  back: "Tilbage"
+  main_title: "Forlystelsespark‑menu"
+
+status:
+  open: "Åben"
+  closed: "Lukket"
+  maintenance: "Vedligeholdelse"
+  construction: "Under opførelse"
+  label: "Status:"
+
+language:
+  changed_to: "Sprog skiftet til {language}"
+  select_language: "Vælg sprog"
+
+cosmetics:
+  equipped: "Kosmetik '%s' udstyret"
+  title: "Kosmetik‑menu"
+
+general:
+  loading: "Indlæser..."
+  error: "Der opstod en fejl"
+  success: "Succes!"
+  confirm: "Bekræft"
+  cancel: "Annuller"
+
+permission:
+  no_permission: "Du har ikke tilladelse til det!"
+  player_only: "Denne kommando kan kun bruges af spillere!"
+
+navigation:
+  next_page: "Næste side"
+  previous_page: "Forrige side"
+  page: "Side"
+
+notification:
+  construction_blocked: "Denne attraktion er under opførelse og ikke tilgængelig!"
