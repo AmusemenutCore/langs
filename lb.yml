@@ -18,6 +18,13 @@ status:
   construction: "Am Bau"
   label: "Status:"
 
+# Ride
+ride:
+  count: "Fueren-Zuel"
+  top_riders: "Top-Fuerer"
+  ride_count_message: "§7Dir sidd {attraction} §7{count} §7Mol gefuer!"
+  first_ride: "§&Gratulatioun! §7Dat ass är éischt Fuert op §e{attraction}§7!"
+
 language:
   changed_to: "Sprooch geännert op {language}"
   select_language: "Sprooch wielen"
