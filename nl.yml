@@ -18,6 +18,13 @@ status:
   construction: "In aanbouw"
   label: "Status:"
 
+# Ride
+ride:
+  count: "Aantal ritten"
+  top_riders: "Top ruiters"
+  ride_count_message: "§7Je hebt {attraction} §7{count} §7keer gereden!"
+  first_ride: "§&Gefeliciteerd! §7Dit is je eerste rit op §e{attraction}§7!"
+
 language:
   changed_to: "Taal gewijzigd naar {language}"
   select_language: "Selecteer taal"
