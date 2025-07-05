@@ -1,0 +1,61 @@
+language_name: "日本語"
+value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDZjMmNhNzIzODY2NmFlMWI5ZGQ5ZGFhM2Q0ZmM4MjlkYjIyNjA5ZmI1NjkzMTJkZWMxZmIwYzhkNmRkNmMxZCJ9fX0="
+
+# Menu Items
+menu:
+  user_settings: "ユーザー設定"
+  theme_areas: "テーマエリア"
+  server: "サーバー"
+  music: "音楽"
+  cosmetics: "コスメティック"
+  language: "言語"
+  back: "戻る"
+  main_title: "遊園地メニュー"
+
+# Status Messages
+status:
+  open: "営業中"
+  closed: "休業中"
+  maintenance: "メンテナンス中"
+  construction: "建設中"
+  label: "ステータス:"
+
+# Ride
+ride:
+  count: "乗車回数"
+  top_riders: "上位乗車者"
+  ride_count_message: "§7あなたは {attraction} に §7{count} §7回乗車しました！"
+  first_ride: "§&おめでとうございます！ §7これは §e{attraction}§7 への初回乗車です！"
+
+# Language Messages
+language:
+  changed_to: "言語を {language} に変更しました"
+  select_language: "言語を選択"
+
+# Cosmetics Messages
+cosmetics:
+  equipped: "コスメティック '%s' を装備しました"
+  title: "コスメティックメニュー"
+
+# General Messages
+general:
+  loading: "読み込み中..."
+  error: "エラーが発生しました"
+  success: "成功！"
+  confirm: "確認"
+  cancel: "キャンセル"
+
+# Permission Messages
+permission:
+  no_permission: "その操作を実行する権限がありません！"
+  player_only: "このコマンドはプレイヤーのみが使用できます！"
+
+# Navigation
+navigation:
+  next_page: "次のページ"
+  previous_page: "前のページ"
+  page: "ページ"
+
+# Notifications
+notification:
+  construction_blocked: "このアトラクションは現在建設中のため、アクセスできません！"
