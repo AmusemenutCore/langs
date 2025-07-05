@@ -18,6 +18,13 @@ status:
   construction: "Ve výstavbě"
   label: "Stav:"
 
+# Ride
+ride:
+  count: "Počet jízd"
+  top_riders: "Nejlepší jezdci"
+  ride_count_message: "§7Jel jste na {attraction} §7{count} §7krát!"
+  first_ride: "§&Gratulujeme! §7Toto je vaše první jízda na §e{attraction}§7!"
+
 language:
   changed_to: "Jazyk změněn na {language}"
   select_language: "Vyberte jazyk"
