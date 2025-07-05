@@ -21,7 +21,7 @@ status:
 # Ride
 ride:
   count: "Ride Count"
-  top_riders: "Top-Riders"
+  top_riders: "Top Riders"
   ride_count_message: "§7Du bist {attraction} §7{count} §7Mal gefahren!"
   first_ride: "§&Herzlichen Glückwunsch! §7Das ist deine erste Fahrt mit §e{attraction}§7!"
 
