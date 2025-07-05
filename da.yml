@@ -18,6 +18,13 @@ status:
   construction: "Under opførelse"
   label: "Status:"
 
+# Ride
+ride:
+  count: "Antal ture"
+  top_riders: "Top ryttere"
+  ride_count_message: "§7Du har kørt {attraction} §7{count} §7gang(e)!"
+  first_ride: "§&Tillykke! §7Dette er din første tur på §e{attraction}§7!"
+
 language:
   changed_to: "Sprog skiftet til {language}"
   select_language: "Vælg sprog"
