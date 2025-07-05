@@ -18,6 +18,13 @@ status:
   construction: "Im Bau"
   label: "Status:"
 
+# Ride
+ride:
+  count: "Ride Count"
+  top_riders: "Top-Riders"
+  ride_count_message: "§7Du bist {attraction} §7{count} §7Mal gefahren!"
+  first_ride: "§&Herzlichen Glückwunsch! §7Das ist deine erste Fahrt mit §e{attraction}§7!"
+
 language:
   changed_to: "Sprache geändert zu {language}"
   select_language: "Sprache wählen"
