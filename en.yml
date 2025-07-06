@@ -34,8 +34,35 @@ language:
 
 # Cosmetics Messages
 cosmetics:
-  equipped: "Cosmetic '%s' equipped"
-  title: "Cosmetics Menu"
+  helmet:
+    title: "Helmet Cosmetics"
+    description: "Click to open helmet cosmetics"
+  chestplate:
+    title: "Chestplate Cosmetics"
+    description: "Click to open chestplate cosmetics"
+  leggings:
+    title: "Leggings Cosmetics"
+    description: "Click to open leggings cosmetics"
+  boots:
+    title: "Boots Cosmetics"
+    description: "Click to open boots cosmetics"
+
+  category:
+    helmet: "Helmet"
+    chestplate: "Chestplate"
+    leggings: "Leggings"
+    boots: "Boots"
+
+  currently_equipped: "Currently equipped"
+  nothing_equipped: "Nothing equipped"
+  currently_equipped_mark: "✓ Currently equipped"
+  click_to_equip: "Click to equip"
+  
+  unequip: "Remove Equipment"
+  unequip_description: "Click to remove the item"
+
+  equipped: "Successfully equipped: %s"
+  unequipped: "Successfully removed: %s"
 
 # General Messages
 general:
